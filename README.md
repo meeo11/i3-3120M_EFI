@@ -1,2 +1,4 @@
-# i3-3120M_EFI
-i3-3120M Big Sur Clover EFI
+# i3-3120M EFI for Hackintosh
+
+ This EFI for Hackintosh. Clover EFI and supporting 
+ Big Sur.  
